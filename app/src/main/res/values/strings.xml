@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRCode Scanner</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sign_out_button">Sign-out</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign-in</string>
+</resources>
